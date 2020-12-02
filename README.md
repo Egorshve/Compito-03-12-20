@@ -1,5 +1,8 @@
 # Compito-03-12-20
 ESERCIZI 28,29,30 di pag 73
+
+
+
 1)Dato un elenco di studenti partecipanti a una gara sportiva di lancio del peso (nome studente,lancio), isualizza il valore del lancio del vincitore (valore massimo).
 
 
